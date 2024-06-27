@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there from WANTED.solutions 👋
 
 Welcome at WANTED.solutions s.r.o. organization profile. 
 
