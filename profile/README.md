@@ -8,10 +8,10 @@ At [WANTED.solutions](https://wanted.solutions) we understand the ever-evolving 
 
 ## Useful links
 
-- [Website](https://wanted.solutions)
-- [Stackshare](https://stackshare.io/companies/wanted-solutions)
+- [Company website](https://wanted.solutions)
+- [Company stackshare](https://stackshare.io/companies/wanted-solutions)
 - [Open job listings](https://www.linkedin.com/company/wanted-solutions/jobs/)
 
 ---
 
-> 2024 &copy; All rights reserved, WANTED.solutions s.r.o.
+> 2024 &copy; All rights reserved - WANTED.solutions s.r.o.
