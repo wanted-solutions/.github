@@ -12,5 +12,6 @@ At [WANTED.solutions](https://wanted.solutions) we understand the ever-evolving 
 - [Stackshare](https://stackshare.io/companies/wanted-solutions)
 - [Open job listings](https://www.linkedin.com/company/wanted-solutions/jobs/)
 
+---
 
-2024 &copy; All rights reserved, WANTED.solutions s.r.o.
+> 2024 &copy; All rights reserved, WANTED.solutions s.r.o.
