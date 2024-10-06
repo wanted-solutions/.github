@@ -1,1 +1,1 @@
-# .github
+# wanted-solutions/.github
