@@ -13,5 +13,4 @@ At [WANTED.solutions](https://wanted.solutions) we understand the ever-evolving 
 - [Open job listings](https://www.linkedin.com/company/wanted-solutions/jobs/)
 
 ---
-
-> 2024 &copy; All rights reserved - WANTED.solutions s.r.o.
+<sup><sub>_2024 &copy; All rights reserved - WANTED.solutions s.r.o._</sub></sup>
