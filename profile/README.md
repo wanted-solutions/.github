@@ -4,6 +4,8 @@
 
 At [WANTED.solutions](https://wanted.solutions) we understand the ever-evolving challenges in the IT world. That's why we offer a comprehensive set of solutions tailored to tackle your unique problems head-on. From cutting-edge software development to robust infrastructure management, our team of experts is ready to help you navigate the digital landscape with confidence.
 
+> Also you can check our Infrastructure as a code open source building blocks [here](https://github.com/wanted-cloud).
+
 > Here you can find links, documentation and other relevant content related to our open source repositories.
 
 ## Useful links
